@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Eda/Desktop/Yeni klasör (2)/jarx.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/questapp/build.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=questapp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.project.questapp{QuestappApplication.java[QuestappApplication" manifestLocation="/questapp/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=questapp/src\/test\/resources=/test=/true=/=/maven.pomderived=/true=/=/optional=/true=/"/>
+        <file path="/questapp/mvnw.cmd"/>
+        <javaElement handleIdentifier="=questapp/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/"/>
+        <file path="/questapp/HELP.md"/>
+        <file path="/questapp/.classpath"/>
+        <javaElement handleIdentifier="=questapp/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/questapp/pom.xml"/>
+        <file path="/questapp/mvnw"/>
+        <javaElement handleIdentifier="=questapp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <folder path="/questapp/target"/>
+        <folder path="/questapp/src"/>
+        <file path="/questapp/.gitignore"/>
+        <file path="/questapp/.project"/>
+    </selectedElements>
+</jardesc>
